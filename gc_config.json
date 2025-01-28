@@ -1,0 +1,12 @@
+{
+    "enabled": true,
+    "whitelist": [
+        1255185280604962898
+    ],
+    "blacklist": [],
+    "silent": true,
+    "leave_message": "Goodbye.",
+    "remove_blacklisted": true,
+    "webhook_url": null,
+    "auto_block": false
+}

